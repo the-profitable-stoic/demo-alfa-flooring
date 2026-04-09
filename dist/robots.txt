@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-alfa-flooring.dream-surge.com/sitemap-index.xml

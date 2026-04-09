@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Alfa Flooring",
+    "phone": "+14403153225",
+    "category": "flooring contractor",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Expert Flooring, Rock Solid Results",
+      "heroSubline": "Alfa Flooring: Cleveland's trusted flooring contractor. Delivering quality craftsmanship and lasting value across Northeast Ohio.",
+      "aboutTitle": "Cleveland's Flooring Experts",
+      "aboutText": [
+        "Alfa Flooring started with a simple commitment: to provide Cleveland homeowners and businesses with exceptional flooring solutions and unparalleled service. We're a local team, deeply rooted in the community, and dedicated to exceeding expectations on every project.",
+        "We approach every job with meticulous attention to detail and a dedication to using the best materials and techniques. We believe in open communication, honest pricing, and a commitment to doing the job right the first time. No shortcuts, just quality.",
+        "We understand the unique challenges of Cleveland's climate and housing stock. From freeze-thaw cycles to older homes, we have the expertise to handle it all. We're proud to contribute to the beauty and value of our community, one floor at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Cleveland's unique flooring needs and challenges."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled installers dedicated to precision and lasting results."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "Diverse range of flooring options to match any style and budget."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and clear communication throughout the process."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and discover the perfect flooring solution for your Cleveland home or business."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value with expert hardwood installation and refinishing.",
+        "description": "Hardwood flooring adds a touch of timeless elegance and lasting value to any Cleveland home. At Alfa Flooring, we specialize in both new hardwood installations and the restoration of existing hardwood floors. We understand the unique challenges of Cleveland's climate, especially the humidity fluctuations that can affect wood. Our experienced installers use proven techniques and quality materials to ensure a durable and beautiful hardwood floor that will last for years to come.\n\nWe offer a wide variety of hardwood species, from classic oak and maple to exotic options like Brazilian cherry. We also provide expert refinishing services to breathe new life into older hardwood floors, removing scratches, dents, and discoloration. Our dustless sanding technology minimizes mess and disruption during the refinishing process.\n\nWhether you're looking to install new hardwood flooring or restore the beauty of your existing floors, Alfa Flooring is the trusted choice in Cleveland. We'll work with you to select the perfect hardwood and finish to complement your style and budget.",
+        "process": [
+          "Step 1: Consultation and Design: We discuss your needs and preferences, offering expert advice on hardwood species, finishes, and installation options.",
+          "Step 2: Precise Measurement and Preparation: We meticulously measure the space and prepare the subfloor to ensure a level and stable foundation.",
+          "Step 3: Expert Installation: Our skilled installers use proven techniques to install your hardwood flooring with precision and care.",
+          "Step 4: Finishing and Sealing: We apply a durable finish to protect your hardwood floor and enhance its natural beauty."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Provides a timeless and elegant look",
+          "Offers durability and longevity",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "Installation time depends on the size of the area and the complexity of the project, but most installations can be completed in 2-5 days."
+          },
+          {
+            "question": "What is the best hardwood for a high-traffic area?",
+            "answer": "Harder wood species like oak, maple, and hickory are more resistant to scratches and dents, making them ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Refinishing frequency depends on wear and tear, but generally, hardwood floors should be refinished every 7-10 years."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Durable and affordable laminate flooring solutions for Cleveland homes and businesses.",
+        "description": "Laminate flooring provides a cost-effective and durable alternative to hardwood, offering a wide range of styles and colors to suit any Cleveland home or business. At Alfa Flooring, we specialize in professional laminate flooring installation, ensuring a seamless and long-lasting finish. Laminate is particularly well-suited for areas with high traffic or moisture, making it a practical choice for kitchens, bathrooms, and entryways.\n\nWe offer a diverse selection of laminate flooring options, including wood-look, tile-look, and stone-look designs. Our experienced team will help you choose the perfect laminate to complement your decor and budget. We also provide expert subfloor preparation to ensure a stable and even surface for your new laminate floor.\n\nAlfa Flooring is committed to providing Cleveland residents with quality laminate flooring solutions and exceptional service. We'll guide you through the selection process and ensure a professional installation that exceeds your expectations.",
+        "process": [
+          "Step 1: Consultation and Selection: We help you choose the perfect laminate flooring to match your style and budget.",
+          "Step 2: Subfloor Preparation: We ensure a level and stable subfloor for optimal laminate installation.",
+          "Step 3: Precise Installation: Our skilled installers use specialized tools and techniques to install your laminate flooring seamlessly.",
+          "Step 4: Finishing Touches: We add trim and moldings for a polished and professional look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate flooring is water-resistant, it is not completely waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a seamless and long-lasting finish."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Versatile and waterproof vinyl flooring for Cleveland homes and businesses.",
+        "description": "Vinyl flooring is a versatile and waterproof flooring option that's ideal for Cleveland homes and businesses. At Alfa Flooring, we offer a wide selection of vinyl flooring styles, including luxury vinyl plank (LVP) and luxury vinyl tile (LVT), that mimic the look of hardwood, tile, and stone. Vinyl flooring is particularly well-suited for areas prone to moisture, such as bathrooms, kitchens, and basements.\n\nWe understand the importance of proper installation, especially in older Cleveland homes where uneven subfloors can be a challenge. Our experienced installers carefully prepare the subfloor to ensure a level and stable surface for your new vinyl floor. We also offer a variety of vinyl flooring thicknesses and wear layers to suit your specific needs and budget.\n\nAlfa Flooring is your trusted source for quality vinyl flooring and professional installation in Cleveland. We'll help you choose the perfect vinyl flooring to enhance the beauty and functionality of your space.",
+        "process": [
+          "Step 1: Consultation and Design: We discuss your needs and help you select the perfect vinyl flooring style and color.",
+          "Step 2: Subfloor Preparation: We ensure a level and clean subfloor for optimal vinyl flooring adhesion.",
+          "Step 3: Professional Installation: Our skilled installers use precise techniques to install your vinyl flooring seamlessly.",
+          "Step 4: Sealing and Finishing: We seal the edges and seams to prevent moisture penetration and ensure a long-lasting finish."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Durable and long-lasting",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties."
+          },
+          {
+            "question": "What is the difference between LVP and LVT?",
+            "answer": "LVP (luxury vinyl plank) mimics the look of hardwood, while LVT (luxury vinyl tile) mimics the look of tile or stone."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Vinyl flooring can be easily cleaned with a damp mop and mild detergent."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable and stylish tile flooring solutions for kitchens, bathrooms, and more.",
+        "description": "Tile flooring offers a durable and stylish option for kitchens, bathrooms, and other areas of your Cleveland home. At Alfa Flooring, we specialize in tile flooring installation, providing expert craftsmanship and a wide selection of tile styles and materials. We understand the unique challenges of tile installation in older Cleveland homes, including uneven subfloors and potential moisture issues. Our experienced installers carefully prepare the subfloor and use high-quality mortars and grouts to ensure a long-lasting and waterproof finish.\n\nWe offer a diverse range of tile options, including ceramic, porcelain, and natural stone. Our team will help you choose the perfect tile to complement your decor and budget. We also provide expert tile design services, helping you create a custom look that reflects your personal style.\n\nAlfa Flooring is committed to providing Cleveland residents with quality tile flooring solutions and exceptional service. We'll guide you through the selection process and ensure a professional installation that exceeds your expectations. We’re experts at handling the freeze-thaw cycle issues in Northeast Ohio.",
+        "process": [
+          "Step 1: Consultation and Design: We discuss your needs and help you select the perfect tile style, color, and pattern.",
+          "Step 2: Subfloor Preparation: We ensure a level and waterproof subfloor for optimal tile adhesion.",
+          "Step 3: Precise Installation: Our skilled installers use specialized tools and techniques to install your tile flooring with precision.",
+          "Step 4: Grouting and Sealing: We apply grout and sealant to protect your tile floor and prevent moisture penetration."
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Waterproof and stain-resistant",
+          "Wide variety of styles and colors",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more durable than ceramic tile, making it a better choice for high-traffic areas."
+          },
+          {
+            "question": "Is tile flooring suitable for bathrooms?",
+            "answer": "Yes, tile flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "How do I clean tile flooring?",
+            "answer": "Tile flooring can be easily cleaned with a damp mop and mild detergent."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation for Cleveland homes.",
+        "description": "Carpet provides warmth, comfort, and style to any Cleveland home. At Alfa Flooring, we specialize in professional carpet installation, offering a wide selection of carpet styles, colors, and materials. We understand the importance of proper installation to ensure a long-lasting and comfortable carpet floor. Our experienced installers carefully prepare the subfloor and use high-quality padding to provide a soft and supportive feel.\n\nWe offer a diverse range of carpet options, including plush, berber, and frieze styles. Our team will help you choose the perfect carpet to complement your decor and lifestyle. We also provide expert carpet removal and disposal services.\n\nAlfa Flooring is committed to providing Cleveland residents with quality carpet installation and exceptional service. We'll guide you through the selection process and ensure a professional installation that exceeds your expectations.",
+        "process": [
+          "Step 1: Consultation and Selection: We help you choose the perfect carpet style, color, and material.",
+          "Step 2: Subfloor Preparation: We ensure a clean and level subfloor for optimal carpet installation.",
+          "Step 3: Professional Installation: Our skilled installers use specialized tools and techniques to install your carpet seamlessly.",
+          "Step 4: Stretching and Trimming: We stretch the carpet to eliminate wrinkles and trim the edges for a perfect fit."
+        ],
+        "benefits": [
+          "Provides warmth and comfort",
+          "Reduces noise",
+          "Offers a wide variety of styles and colors",
+          "Relatively affordable flooring option"
+        ],
+        "faq": [
+          {
+            "question": "What is the best carpet for high-traffic areas?",
+            "answer": "Berber carpet is a durable and stain-resistant option for high-traffic areas."
+          },
+          {
+            "question": "How often should I clean my carpet?",
+            "answer": "Carpets should be professionally cleaned every 12-18 months."
+          },
+          {
+            "question": "What is carpet padding and why is it important?",
+            "answer": "Carpet padding provides cushioning, support, and insulation, extending the life of your carpet."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair",
+        "shortDescription": "Expert floor repair services to restore your damaged flooring.",
+        "description": "Don't let damaged flooring detract from the beauty and value of your Cleveland home. Alfa Flooring offers expert floor repair services to restore your damaged hardwood, laminate, vinyl, or tile floors. We understand the unique challenges of repairing floors in older Cleveland homes, including water damage, structural issues, and mismatched materials. Our skilled technicians have the expertise to diagnose the problem and provide effective repair solutions.\n\nWhether you have a cracked tile, a water-stained hardwood floor, or a loose laminate plank, we can help. We use quality materials and proven techniques to seamlessly repair your flooring, restoring its original beauty and functionality. We also offer preventative maintenance services to help you avoid future floor damage.\n\nAlfa Flooring is committed to providing Cleveland residents with reliable floor repair services and exceptional customer care. We'll assess the damage, provide a detailed estimate, and complete the repairs efficiently and effectively.",
+        "process": [
+          "Step 1: Damage Assessment: We thoroughly inspect the damaged flooring to determine the cause and extent of the problem.",
+          "Step 2: Repair Plan: We develop a customized repair plan to restore your flooring to its original condition.",
+          "Step 3: Material Selection: We select high-quality replacement materials that match your existing flooring.",
+          "Step 4: Expert Repair: Our skilled technicians perform the repairs with precision and care."
+        ],
+        "benefits": [
+          "Restores the beauty and value of your home",
+          "Prevents further damage",
+          "Extends the life of your flooring",
+          "Cost-effective alternative to replacement"
+        ],
+        "faq": [
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the extent of the damage and the type of flooring. We provide free estimates."
+          },
+          {
+            "question": "Can you match the existing flooring?",
+            "answer": "Yes, we can source replacement materials that closely match your existing flooring."
+          },
+          {
+            "question": "Do you offer emergency floor repair services?",
+            "answer": "Yes, we offer emergency floor repair services for urgent situations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Alfa Flooring is proud to serve the vibrant city of Cleveland, Ohio. We offer a comprehensive range of flooring services, from hardwood installation and refinishing to carpet and tile solutions. Our team is dedicated to providing Cleveland homeowners and businesses with top-quality flooring and exceptional customer service.\n\nWe understand the unique character of Cleveland homes and businesses. Whether you're looking to restore the classic beauty of a historic home in Tremont or update a modern office space downtown, Alfa Flooring has the expertise and selection to meet your needs. We source our materials from trusted suppliers to ensure lasting beauty and durability.",
+        "localContext": "Cleveland's diverse neighborhoods, from the bustling downtown to the historic architecture of Ohio City, each have unique flooring needs that we are equipped to handle.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Alfa Flooring brings its expertise to Lakewood, Ohio, providing homeowners and businesses with exceptional flooring services. We specialize in a variety of flooring options, including hardwood, laminate, vinyl, and tile, ensuring we have the perfect solution for every space.\n\nLakewood's charming homes and vibrant commercial spaces deserve flooring that enhances their beauty and functionality. Alfa Flooring is committed to delivering top-quality workmanship and outstanding customer service to the Lakewood community. We take pride in helping our clients create spaces they love.",
+        "localContext": "Lakewood's mix of historic homes and modern apartments often require unique flooring solutions, and we're ready to provide the right fit.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Brooklyn"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Alfa Flooring extends its services to Parma, Ohio, offering a wide range of flooring solutions to meet the needs of homeowners and businesses. We are committed to providing Parma residents with top-quality flooring installation, repair, and refinishing services.\n\nFrom cozy homes to bustling commercial spaces, Alfa Flooring has the expertise and resources to handle any flooring project in Parma. We use only the highest quality materials and employ skilled craftsmen to ensure lasting beauty and durability.",
+        "localContext": "Parma's family-friendly neighborhoods require durable and affordable flooring options, which we offer with a focus on quality and value.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn Heights",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Alfa Flooring proudly serves Shaker Heights, Ohio, providing exceptional flooring services to homeowners and businesses in this beautiful community. We offer a wide selection of flooring options, including hardwood, carpet, tile, and luxury vinyl, ensuring we have the perfect solution for every style and budget.\n\nShaker Heights is known for its elegant homes and well-maintained properties. Alfa Flooring is committed to helping Shaker Heights residents maintain the beauty and value of their homes with top-quality flooring and expert installation services. We take pride in our attention to detail and commitment to customer satisfaction.",
+        "localContext": "The distinctive architectural styles of Shaker Heights demand careful consideration of flooring choices, and we're experienced in providing historically appropriate and stylish solutions.",
+        "nearbyAreas": [
+          "Cleveland Heights",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "Alfa Flooring is dedicated to providing Rocky River, Ohio, with superior flooring services. We understand the importance of quality flooring in creating a beautiful and comfortable home or business environment. Our team is committed to delivering exceptional workmanship and outstanding customer service to the Rocky River community.\n\nFrom charming bungalows to modern residences, Alfa Flooring has the expertise and resources to handle any flooring project in Rocky River. We offer a wide selection of flooring options, including hardwood, laminate, tile, and carpet, ensuring we have the perfect solution for every style and budget.",
+        "localContext": "Rocky River's proximity to Lake Erie means residents often seek water-resistant flooring options, which we offer in a variety of styles.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Bay Village",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Cleveland Heights",
+        "slug": "cleveland-heights-oh",
+        "state": "OH",
+        "content": "Alfa Flooring is pleased to offer our flooring services to Cleveland Heights, Ohio. We understand the diverse needs of homeowners and businesses in this vibrant community and are committed to providing top-quality flooring solutions that enhance the beauty and value of their properties.\n\nCleveland Heights is known for its historic homes and tree-lined streets. Alfa Flooring is dedicated to helping Cleveland Heights residents preserve the character of their homes while updating their flooring with modern and stylish options. We offer a wide selection of flooring materials and expert installation services to meet every need.",
+        "localContext": "The historic homes of Cleveland Heights often benefit from hardwood refinishing or historically accurate flooring replacements, services we specialize in.",
+        "nearbyAreas": [
+          "Shaker Heights",
+          "University Heights",
+          "South Euclid"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Alfa Flooring is proud to serve the community of Westlake, Ohio, with top-notch flooring services. We offer a comprehensive range of flooring options, from classic hardwood to modern tile and everything in between. Our team is dedicated to providing Westlake homeowners and businesses with high-quality materials and expert installation.\n\nWe understand the importance of creating a space that reflects your personal style and meets your functional needs. Whether you're renovating your home or updating your commercial space, Alfa Flooring has the expertise and selection to bring your vision to life. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Westlake's mix of residential and commercial properties requires a diverse range of flooring options, and we're ready to meet those demands.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Avon"
+        ]
+      },
+      {
+        "city": "Bay Village",
+        "slug": "bay-village-oh",
+        "state": "OH",
+        "content": "Alfa Flooring offers superior flooring services to Bay Village, Ohio, residents and businesses. We are committed to providing exceptional workmanship and outstanding customer service, ensuring every project is completed to the highest standards.\n\nBay Village's beautiful homes and vibrant community deserve flooring that enhances their appeal. Alfa Flooring offers a wide selection of flooring options, including hardwood, laminate, tile, and carpet, ensuring we have the perfect solution for every style and budget.",
+        "localContext": "Bay Village's coastal location means many residents prefer flooring options that are resistant to moisture and wear, and we have a wide selection to choose from.",
+        "nearbyAreas": [
+          "Rocky River",
+          "Westlake",
+          "Avon Lake"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Alfa Flooring did an amazing job installing new hardwood floors in my Tremont home. The team was professional, efficient, and the floors look absolutely stunning. They even helped me choose the perfect stain to match my existing decor. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Laminate Flooring",
+        "text": "We had Alfa Flooring install laminate flooring in our basement in Lakewood. The price was competitive, and the installation was quick and clean. There was a small issue with a seam, but they came back promptly to fix it. Overall, a good experience.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Tile Flooring",
+        "text": "Alfa Flooring recently renovated my kitchen and installed new tile flooring. The result is beautiful! The crew was very careful and meticulous, and they made sure everything was perfect before leaving. I especially appreciated their attention to detail around the cabinets. I would definitely hire them again.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "Great experience with Alfa Flooring! They installed new carpet in our bedrooms in Westlake. The installers were friendly and professional, and the carpet feels so soft and plush. They even helped us move the furniture back into the rooms. Excellent service!",
+        "date": "2024-08-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Floor Repair",
+        "text": "Alfa Flooring repaired some water damage to our hardwood floors in our Ohio City home. They matched the existing wood perfectly and the repair is seamless. They were quick to respond and the price was reasonable. Very happy with the result.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "Alfa Flooring installed vinyl plank flooring in our laundry room and it looks great! They were professional and efficient, and the flooring is completely waterproof, which is exactly what we needed. Highly recommend their services!",
+        "date": "2024-06-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Alfa Flooring | Cleveland Flooring Contractor",
+        "description": "Expert flooring services in Cleveland, OH. Hardwood, laminate, vinyl, tile, & carpet installation. Get a free quote today!"
+      },
+      "about": {
+        "title": "About Alfa Flooring | Cleveland, OH",
+        "description": "Learn about Alfa Flooring, Cleveland's trusted flooring contractor. Quality craftsmanship and exceptional service since 2012."
+      },
+      "services": {
+        "title": "Flooring Services | Alfa Flooring Cleveland",
+        "description": "Alfa Flooring: Expert flooring services in Cleveland. Hardwood, laminate, vinyl, tile, carpet. Free Estimates!"
+      },
+      "contact": {
+        "title": "Contact Alfa Flooring | Cleveland, OH",
+        "description": "Contact Alfa Flooring for expert flooring services in Cleveland, OH. Get a free quote and schedule a consultation today!"
+      },
+      "reviews": {
+        "title": "Alfa Flooring Reviews | Cleveland, OH",
+        "description": "Read reviews for Alfa Flooring, Cleveland's trusted flooring contractor. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Alfa Flooring Cleveland",
+        "description": "Alfa Flooring provides expert flooring services throughout Cleveland and surrounding areas. Find a service area near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
